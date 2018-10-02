@@ -1,0 +1,19 @@
+img
+{
+  width: 100px;
+  height: 100px;
+}
+
+div{
+  /*display: inline-block;*/
+}
+
+input{
+  /*display: block;*/
+}
+
+table
+{
+  background-color: green;
+}
+
