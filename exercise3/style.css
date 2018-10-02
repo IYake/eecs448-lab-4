@@ -18,3 +18,14 @@ table, th, td
   border: 1px solid #7a8273;
 }
 
+header{
+  text-align: center;
+  font-size: 50px;
+  background-color: #ea6635;
+  color: white;
+}
+
+p, form{
+  font-family: helvetica;
+}
+
