@@ -12,8 +12,9 @@ input{
   /*display: block;*/
 }
 
-table
+table, th, td
 {
-  background-color: green;
+  background-color: #c4e2ac;
+  border: 1px solid #7a8273;
 }
 
